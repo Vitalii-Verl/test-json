@@ -1,0 +1,26 @@
+{
+  "warframes": [
+    {
+      "name": "Ash Prime",
+      "components": [
+        {
+          "name": "blueprint",
+          "is": "false",
+          "info": ["L S3", "L V7", "M C1", "M S3"]
+        }, {
+          "name": "neuroptics",
+          "is": "false",
+          "info": ["M N2", "M V4", "N A4", "N N3", "N V4", "A N2"]
+        }, {
+          "name": "chassis",
+          "is": "false",
+          "info": ["L L8", "M V2", "N N4", "A B1"]
+        }, {
+          "name": "systems",
+          "is": "false",
+          "info": ["N N5", "A A7", "A N1"]
+        }
+      ]
+    }
+  ]
+}
