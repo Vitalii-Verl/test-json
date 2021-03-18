@@ -2,25 +2,148 @@
   "warframes": [
     {
       "name": "Ash Prime",
-      "components": [
-        {
+      "isCompleted": false,
+      "components": [{
           "name": "blueprint",
-          "is": "false",
-          "info": ["L S3", "L V7", "M C1", "M S3"]
-        }, {
+          "isHave": false }, {
           "name": "neuroptics",
-          "is": "false",
-          "info": ["M N2", "M V4", "N A4", "N N3", "N V4", "A N2"]
-        }, {
-          "name": "chassis",
-          "is": "false",
-          "info": ["L L8", "M V2", "N N4", "A B1"]
-        }, {
+          "isHave": false }, {
+          "name": "chassisHave",
+          "isHave": false }, {
           "name": "systems",
-          "is": "false",
-          "info": ["N N5", "A A7", "A N1"]
-        }
-      ]
+          "isHave": false }]
+    }, {
+      "name": "Banshee Prime",
+      "isCompleted": false,
+      "components": [{
+          "name": "blueprint",
+          "isHave": false }, {
+          "name": "neuroptics",
+          "isHave": false }, {
+          "name": "chassisHave",
+          "isHave": false }, {
+          "name": "systems",
+          "isHave": false }]
+    }, {
+      "name": "Ember Prime",
+      "isCompleted": false,
+      "components": [{
+          "name": "blueprint",
+          "isHave": false }, {
+          "name": "neuroptics",
+          "isHave": false }, {
+          "name": "chassisHave",
+          "isHave": false }, {
+          "name": "systems",
+          "isHave": false }]
+    }, {
+      "name": "Frost Prime",
+      "isCompleted": false,
+      "components": [{
+          "name": "blueprint",
+          "isHave": false }, {
+          "name": "neuroptics",
+          "isHave": false }, {
+          "name": "chassisHave",
+          "isHave": false }, {
+          "name": "systems",
+          "isHave": false }]
+    }, {
+      "name": "Inaros Prime",
+      "isCompleted": false,
+      "components": [{
+          "name": "blueprint",
+          "isHave": false }, {
+          "name": "neuroptics",
+          "isHave": false }, {
+          "name": "chassisHave",
+          "isHave": false }, {
+          "name": "systems",
+          "isHave": false }]
+    }, {
+      "name": "Mag Prime",
+      "isCompleted": false,
+      "components": [{
+          "name": "blueprint",
+          "isHave": false }, {
+          "name": "neuroptics",
+          "isHave": false }, {
+          "name": "chassisHave",
+          "isHave": false }, {
+          "name": "systems",
+          "isHave": false }]
+    }, {
+      "name": "Nezha Prime",
+      "isCompleted": false,
+      "components": [{
+          "name": "blueprint",
+          "isHave": false }, {
+          "name": "neuroptics",
+          "isHave": false }, {
+          "name": "chassisHave",
+          "isHave": false }, {
+          "name": "systems",
+          "isHave": false }]
+    }, {
+      "name": "Nova Prime",
+      "isCompleted": false,
+      "components": [{
+          "name": "blueprint",
+          "isHave": false }, {
+          "name": "neuroptics",
+          "isHave": false }, {
+          "name": "chassisHave",
+          "isHave": false }, {
+          "name": "systems",
+          "isHave": false }]
+    }, {
+      "name": "Nyx Prime",
+      "isCompleted": false,
+      "components": [{
+          "name": "blueprint",
+          "isHave": false }, {
+          "name": "neuroptics",
+          "isHave": false }, {
+          "name": "chassisHave",
+          "isHave": false }, {
+          "name": "systems",
+          "isHave": false }]
+    }, {
+      "name": "Octavia Prime",
+      "isCompleted": false,
+      "components": [{
+          "name": "blueprint",
+          "isHave": false }, {
+          "name": "neuroptics",
+          "isHave": false }, {
+          "name": "chassisHave",
+          "isHave": false }, {
+          "name": "systems",
+          "isHave": false }]
+    }, {
+      "name": "Rhino Prime",
+      "isCompleted": false,
+      "components": [{
+          "name": "blueprint",
+          "isHave": false }, {
+          "name": "neuroptics",
+          "isHave": false }, {
+          "name": "chassisHave",
+          "isHave": false }, {
+          "name": "systems",
+          "isHave": false }]
+    }, {
+      "name": "Vauban Prime",
+      "isCompleted": false,
+      "components": [{
+          "name": "blueprint",
+          "isHave": false }, {
+          "name": "neuroptics",
+          "isHave": false }, {
+          "name": "chassisHave",
+          "isHave": false }, {
+          "name": "systems",
+          "isHave": false }]
     }
   ]
 }
