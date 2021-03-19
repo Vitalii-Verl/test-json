@@ -5,11 +5,11 @@
       "isCompleted": false,
       "components": [{
           "name": "blueprint",
-          "isHave": false }, {
+          "isHave": true }, {
           "name": "neuroptics",
-          "isHave": false }, {
+          "isHave": true }, {
           "name": "chassisHave",
-          "isHave": false }, {
+          "isHave": true }, {
           "name": "systems",
           "isHave": false }]
     }, {
